@@ -23,4 +23,4 @@ Junior Developer. Focused on backend systems, scripting tools, and system automa
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idankuz) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idank114o@gmail.com)
 ---
-<p align="center"><em>Generated with <a href="https://profilereadme.dev">ProfileREADME.dev</a> 🚀</em></p>
+<p align="center"><em>Generated with <a href="[https://profilereadme.dev](https://github.com/idankuz/-ProfileREADME)">ProfileREADME.dev</a> 🚀</em></p>
