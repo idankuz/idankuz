@@ -8,7 +8,7 @@ Junior Developer. Focused on backend systems, scripting tools, and system automa
 - 🌱 **Currently learning:** C#
 - 💬 **Ask me about:** TypeScript, Next.js, Cloud Architecture, Python.
 - 📍 **Location:** Haifa District, Israel
-- 📫 **Reach me at:** [developer@example.com](mailto:developer@example.com)
+- 📫 **Reach me at:** [idank114o@gmail.com](mailto:idank114o@gmail.com)
 - ⚡ **Fun fact:** I brew my own espresso and contribute to open-source at 2 AM.
 
 ---
